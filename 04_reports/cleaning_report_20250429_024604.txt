@@ -1,0 +1,329 @@
+
+🔵 Cleaning file: AISHE.xlsx
+⚠️ Duplicate columns found in Table_3: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_9: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_10: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_11: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_12: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_13: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_14: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_15: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_21: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_25: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_27: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_35: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_41: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_42: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_44: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_47: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_49: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_56: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_58: ['nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_61: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_63: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_64: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_66: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_67: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_70: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_73: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_74: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_75: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_76: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_77: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_79: ['nan', 'nan', 'nan', '1.0', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_80: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_81: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_82: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_83: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_84: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_91: ['nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_98: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_100: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_101: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_102: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_104: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_105: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_106: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_107: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_108: ['nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_117: ['nan', 'male', 'female', 'total', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_119: ['nan', 'male', 'female', 'total', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_120: ['nan', 'male', 'nan', 'female', 'total', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_121: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_122: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_123: ['nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_124: ['nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_125: ['nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_126: ['nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_131: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', '4.0']. Renaming automatically.
+⚠️ Duplicate columns found in Table_134: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_139: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_140: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_141: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_142: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_143: ['nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_144: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_145: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_146: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_149: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_150: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_151: ['nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_152: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_153: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_154: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_155: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_156: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_157: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_158: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_159: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_160: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_161: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_163: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_164: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_165: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_166: ['nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_167: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_168: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_172: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_173: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_175: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_176: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_178: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_179: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_182: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_188: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_189: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_195: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_206: ['nan', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_207: ['nan', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_210: ['male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_211: ['male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_212: ['nan', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_213: ['nan', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_215: ['nan', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_217: ['male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_218: ['nan', 'nan', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_219: ['nan', 'male', 'nan', 'female', 'nan', 'total', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_220: ['nan', 'nan', 'nan', 'nan', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_221: ['male', 'nan', 'female', 'nan', 'total', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_222: ['nan', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_223: ['nan', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_224: ['nan', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_225: ['nan', 'nan', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_226: ['nan', 'nan', 'nan', 'male', 'nan', 'female', 'nan', 'total', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_227: ['nan', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_231: ['nan', 'nan', 'nan', 'nan', 'nan', '6.0', '7.0', '8.0']. Renaming automatically.
+⚠️ Duplicate columns found in Table_232: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'male', 'female', 'total', 'nan', 'male', 'female', 'total']. Renaming automatically.
+⚠️ Duplicate columns found in Table_233: ['nan', 'nan', 'nan', '6.0', '7.0', '8.0', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_234: ['6', '7', '8']. Renaming automatically.
+⚠️ Duplicate columns found in Table_235: ['6', '7', '8']. Renaming automatically.
+⚠️ Duplicate columns found in Table_236: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_237: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_242: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_244: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_246: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_248: ['nan', '1.0', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_249: ['nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_250: ['nan', 'nan', 'nan', '1.0', '1.0', '1.0']. Renaming automatically.
+⚠️ Duplicate columns found in Table_252: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_253: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_254: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_255: ['180.0']. Renaming automatically.
+⚠️ Duplicate columns found in Table_256: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_257: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_258: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_259: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_260: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_261: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_262: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_263: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_264: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_265: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_266: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_267: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_268: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_269: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_270: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_271: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_272: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_273: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_274: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_275: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_276: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_277: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_278: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_279: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_280: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_281: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_282: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_283: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_284: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_285: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_291: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_292: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_293: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_294: ['male', 'female', 'both', 'male', 'female', 'both']. Renaming automatically.
+⚠️ Duplicate columns found in Table_295: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_296: ['male', 'female', 'both', 'male', 'female', 'both']. Renaming automatically.
+⚠️ Duplicate columns found in Table_297: ['male', 'female', 'both', 'male', 'female', 'both']. Renaming automatically.
+⚠️ Duplicate columns found in Table_298: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_299: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_300: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_301: ['nan', 'nan', 'nan', 'regular_&_distance', 'nan', 'nan', 'nan', 'regular_&_distance', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_302: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_303: ['nan', 'nan', 'nan', 'regular_&_distance', 'nan', 'nan', 'nan', 'regular_&_distance', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_304: ['nan', 'nan', 'nan', 'regular_&_distance', 'nan', 'nan', 'nan', 'regular_&_distance', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_306: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_311: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_312: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_313: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_314: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_315: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_316: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_317: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_318: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_319: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_320: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_321: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_322: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_335: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_337: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_340: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_341: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_371: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_374: ['nan']. Renaming automatically.
+✅ Saved cleaned file: 03_cleaned_data\cleaned_AISHE.xlsx (15463 rows)
+
+🔵 Cleaning file: Skill Gap Rajasthan.xlsx
+⚠️ Duplicate columns found in Table_1: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_6: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_23: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_35: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_36: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_43: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_46: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_70: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_71: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_75: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_77: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_78: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_79: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_80: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_89: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_90: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_91: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_93: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_95: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_97: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_99: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_102: ['nan', 'nan', 'nan', 'as_on']. Renaming automatically.
+⚠️ Duplicate columns found in Table_103: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_104: ['nan', 'march_31,']. Renaming automatically.
+⚠️ Duplicate columns found in Table_105: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_106: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_107: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_108: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_109: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_110: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_111: ['nan', 'as_on']. Renaming automatically.
+⚠️ Duplicate columns found in Table_112: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_113: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_114: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_116: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_117: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_118: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_119: ['-', '-', '974.41']. Renaming automatically.
+⚠️ Duplicate columns found in Table_120: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_121: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_122: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_123: ['nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_124: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_125: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_126: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_127: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_128: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_129: ['for_the_year_ended']. Renaming automatically.
+⚠️ Duplicate columns found in Table_130: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_131: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_132: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_133: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_134: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_136: ['nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_138: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_150: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_152: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_154: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_160: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_161: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_162: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_163: ['nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_165: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_167: ['-']. Renaming automatically.
+⚠️ Duplicate columns found in Table_168: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_169: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_170: ['nan', 'as_at_march']. Renaming automatically.
+⚠️ Duplicate columns found in Table_171: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_172: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_173: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_174: ['nan', 'as_at_march']. Renaming automatically.
+⚠️ Duplicate columns found in Table_175: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_177: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_178: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_179: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_180: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_181: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_182: ['nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_184: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_185: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_186: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_187: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_188: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_189: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_190: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_191: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_192: ['for_the_year_ended']. Renaming automatically.
+⚠️ Duplicate columns found in Table_193: ['for_the_year_ended']. Renaming automatically.
+⚠️ Duplicate columns found in Table_194: ['for_the_year_ended']. Renaming automatically.
+⚠️ Duplicate columns found in Table_196: ['as_on']. Renaming automatically.
+⚠️ Duplicate columns found in Table_197: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_198: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_199: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_200: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_201: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_205: ['nan', 'nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_206: ['nan', 'nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_207: ['nan', 'nan']. Renaming automatically.
+✅ Saved cleaned file: 03_cleaned_data\cleaned_Skill Gap Rajasthan.xlsx (6339 rows)
+
+🔵 Cleaning file: UGC University List.xlsx
+⚠️ Duplicate columns found in Table_1: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_7: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_14: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_16: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_17: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_19: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_21: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_23: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_24: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_26: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_28: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_30: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_31: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_32: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_33: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_35: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_36: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_39: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_41: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_43: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_44: ['nan']. Renaming automatically.
+⚠️ Duplicate columns found in Table_46: ['nan']. Renaming automatically.
+✅ Saved cleaned file: 03_cleaned_data\cleaned_UGC University List.xlsx (2133 rows)
+
+📋 Summary Report
+Total files processed: 3
+Total sheets processed: 631
+Total rows cleaned: 23935
+Total errors: 0
+Total warnings: 312
+Time taken: 0:00:57

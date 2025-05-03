@@ -1,0 +1,20 @@
+
+🔵 Cleaning file: nirf_engineering_2023.xlsx
+✅ Saved cleaned file: 03_cleaned_data\cleaned_nirf_engineering_2023.xlsx (100 rows)
+
+🔵 Cleaning file: nirf_management_2023.xlsx
+✅ Saved cleaned file: 03_cleaned_data\cleaned_nirf_management_2023.xlsx (100 rows)
+
+🔵 Cleaning file: nirf_pharmacy_2023.xlsx
+✅ Saved cleaned file: 03_cleaned_data\cleaned_nirf_pharmacy_2023.xlsx (100 rows)
+
+🔵 Cleaning file: nirf_university_2023.xlsx
+✅ Saved cleaned file: 03_cleaned_data\cleaned_nirf_university_2023.xlsx (100 rows)
+
+📋 Summary Report
+Total files processed: 4
+Total sheets processed: 4
+Total rows cleaned: 400
+Total errors: 0
+Total warnings: 0
+Time taken: 0:00:00
