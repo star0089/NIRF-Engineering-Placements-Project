@@ -1,8 +1,16 @@
+import argparse
+from pathlib import Path
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_excel(r"D:\Projects\Not_completed\Educational_Employment_Data_Project\nirf_pdfs\NIRF_Placements_Split_Yearwise.xlsx")
+parser = argparse.ArgumentParser(description="Plot UG placement exploration from one workbook sheet.")
+parser.add_argument("--input", type=Path, default=Path(__file__).resolve().parents[1] / "nirf_pdfs" / "NIRF_Placements_Split_Yearwise.xlsx")
+parser.add_argument("--sheet", default=None, help="Worksheet name; defaults to the first sheet, preserving original behavior.")
+parser.add_argument("--output", type=Path, help="Save the figure instead of opening a window.")
+args = parser.parse_args()
+df = pd.read_excel(args.input, sheet_name=args.sheet if args.sheet is not None else 0)
 df.columns = df.columns.str.strip()
 
 ug_df = df[df['Program'].str.contains("UG", case=False)]
@@ -34,4 +42,8 @@ axs[1, 1].set_title('Top UG Colleges by Median Salary')
 axs[1, 1].set_xlabel('Median Salary (LPA)')
 
 plt.tight_layout(rect=[0, 0, 1, 0.96])
-plt.show()
+if args.output:
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    fig.savefig(args.output, dpi=160, bbox_inches="tight")
+else:
+    plt.show()

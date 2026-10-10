@@ -1,112 +1,69 @@
-# 📊 Educational Employment Data Analysis (NIRF-Based)
+# NIRF Engineering Placement Analysis
 
-This project analyzes **engineering placements** data from NIRF PDFs of Indian institutes. The goal is to extract, clean, and analyze UG/PG placement trends across years using Python.
+Python extraction and exploration of institutional placement disclosures, with Excel datasets and a Power BI dashboard.
 
----
+## Purpose
 
-## 📁 Project Structure
+Compare reported graduates, placements, higher-study counts and median salaries across available institution/program/year records. This supports exploration of education outcomes; it does not establish why institutions perform differently or represent all Indian engineering colleges.
 
-```
-.
-├── 01_data/
-│   ├── nirf_pdfs/                  # Raw NIRF PDF files
-│   ├── NIRF_Placements_Split_Yearwise.xlsx
-│   └── NIRF_Placements_Split_Yearwise_CLEANED.xlsx
+**Status:** Extraction scripts, workbooks, EDA code and dashboard artifacts are committed. The EDA entry point is portable; the broader extraction pipeline still needs path configuration and source-level validation.
 
-├── 02_scripts/
-│   ├── download_govt_datasets.py     # Download PDFs (if applicable)
-│   ├── Pdf_data_extraction.py        # Basic PDF parsing
-│   ├── nirf_metadata_2.py            # Main placement extraction logic
-│   ├── placement_excel_polisher.py   # Excel cleaning
-│   ├── prepare_final_dataset.py      # Combine/filter datasets
-│   ├── Get_collage table.py          # Supporting metadata extraction
-│   └── Cleaner.py                    # Additional clean-up helpers
+## Existing outputs
 
-├── 03_scripts/
-│   ├── EDA-Notebook.py               # Final visualization/EDA
-│
-├── README.md
-├── requirements.txt
-```
+![Existing placement dashboard](05_Visualization/Nirf%20PLacement%20Dashboard.png)
 
----
+- [Power BI dashboard](05_Visualization/Placement_Gap.py.pbix)
+- [Extracted placement workbook](nirf_pdfs/NIRF_Placements_Split_Yearwise.xlsx)
+- [Cleaned placement workbook](nirf_pdfs/NIRF_Placements_Split_Yearwise_CLEANED.xlsx)
 
-## 🧠 Features
+The extracted workbook contains six UG/PG year sheets covering 2020–21, 2021–22 and 2022–23, with 112 rows across sheets. This is extracted coverage, not a claim of complete coverage. Numerical findings require reconciliation against the source PDFs.
 
-- 🔍 Extracts UG and PG placement data from raw NIRF PDFs.
-- 📊 Cleans and merges multi-year, multi-college data into a structured Excel.
-- 📈 Visualizes trends like:
-  - Average Median Salary by Program
-  - Year-wise Salary Trends
-  - Placement Percentages
-  - Correlation Heatmaps
-  - Top Performing Colleges
+## Repository navigation
 
----
+| Location | Contents |
+| --- | --- |
+| `nirf_pdfs/` | 84 numbered source PDFs and placement workbooks |
+| `01_raw_data/` | Supporting government PDFs and category workbooks |
+| `03_scripts/` | Extraction, cleaning and dataset-preparation scripts |
+| `03_cleaned_data/` | Existing prepared datasets |
+| `04_eda_notebooks/EDA-Notebook.py` | Python plotting script, despite the folder name |
+| `04_reports/` | Existing cleaning reports |
+| `05_Visualization/` | Dashboard PNG and PBIX |
+| [docs/methodology.md](docs/methodology.md) | Definitions, execution boundaries and validation priorities |
 
-## 🚀 How to Run
+## Run the existing EDA
 
-1. **Step 1** – Place raw NIRF PDF files inside `nirf_pdfs/`.
-2. **Step 2** – Extract and convert PDFs:
-   ```bash
-   python nirf_metadata_2.py
-   ```
-
-3. **Step 3** – Clean the Excel:
-   ```bash
-   python placement_excel_polisher.py
-   ```
-
-4. **Step 4** – Run final analysis and EDA:
-   ```bash
-   python EDA-Notebook.py
-   ```
-
----
-
-## 🧪 Sample Outputs
-
-- `NIRF_Placements_Split_Yearwise.xlsx` – Raw extracted data
-- `NIRF_Placements_Split_Yearwise_CLEANED.xlsx` – Cleaned for EDA
-
----
-
-## 🛠 Requirements
-
-Install all dependencies with:
+From the repository root, create a Python environment and install the committed dependencies:
 
 ```bash
-pip install -r requirements.txt
+python -m venv .venv
+python -m pip install -r requirements.txt
+python 04_eda_notebooks/EDA-Notebook.py --output outputs/ug-placement-eda.png
 ```
 
----
+Use your environment's Python after activating it. To select another worksheet:
 
-## 🧹 Cleaning Rules
+```bash
+python 04_eda_notebooks/EDA-Notebook.py --sheet UG_2022-23 --output outputs/ug-2022-23.png
+```
 
-- Dropped rows with 0 graduates/placed/higher unless it's recent data (2021, 2022)
-- Removed placement percentage > 100%
-- Normalized string and numeric formats
+The default remains the **first worksheet only**, preserving original analytical behavior. It does not combine all years. Use `--input PATH` for another compatible workbook. Without `--output`, a chart window opens.
 
----
+Dependencies are pinned in [requirements.txt](requirements.txt). A supported Python-version range and a clean-environment install have not yet been established.
 
-## 📊 Visualization Insights
+## Methodology and limitations
 
-EDA script includes:
+The cleaner strips text, attempts numeric conversion, removes all-null key rows, excludes placement percentages above 100 and conditionally removes all-zero records. The recent-year exception is hard-coded to 2021/2022; it is not a general recency policy.
 
-- Bar plots, line charts for trends
-- Box plots for placement distribution
-- Correlation matrix between salary, placements, higher studies
+Charts average institutional median salaries; that is **not** a pooled graduate salary median. Missing institution-years and extraction failures can bias comparisons. Salary units and placement denominators must be checked against source disclosures.
 
----
+Other extraction scripts still contain local Windows paths, and OCR/browser utilities need dependencies beyond the EDA requirements. The previous README's end-to-end commands were therefore removed. No extraction or cleaning definitions have been changed in this pass.
 
-## ⚠️ Known Issues
+## Next improvements
 
-- ❗ **Data Availability Gaps**: Not all colleges have data available for all years. This leads to inconsistencies in trend lines and box plots.
-- 📉 Missing years can skew average salary or placement % trends.
-- 📥 PDF table extraction sometimes skips rows due to poor formatting or scanned documents.
+1. Validate sampled workbook rows and units against source PDFs.
+2. Configure extraction/cleaning paths and record source provenance.
+3. Document missingness and coverage by institution/year.
+4. Design an explicit all-sheet analysis before making multi-year claims.
 
----
-
-## 👨‍💻 Author
-
-Project by Mahesh Vyas – Built using `pandas`, `pdfplumber`, `seaborn`, `matplotlib`, and `openpyxl`.
+**Mahesh Vyas** · [LinkedIn](https://www.linkedin.com/in/data-mahesh/) · [GitHub](https://github.com/star0089)
